@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/alphadose/haxmap"
+	"github.com/lkarlslund/haxmap"
 )
 
 type data struct {

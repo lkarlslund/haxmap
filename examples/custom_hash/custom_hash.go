@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/alphadose/haxmap"
+	"github.com/lkarlslund/haxmap"
 )
 
 // your custom hash function

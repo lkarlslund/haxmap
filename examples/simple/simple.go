@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/alphadose/haxmap"
+	"github.com/lkarlslund/haxmap"
 )
 
 func main() {
