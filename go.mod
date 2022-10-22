@@ -1,3 +1,3 @@
-module github.com/alphadose/haxmap
+module github.com/lkarlslund/haxmap
 
 go 1.18
